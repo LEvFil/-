@@ -1,0 +1,191 @@
+Лев Филипчик, [02.02.2025 14:37]
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="https://eotttzi37.ukit.me" class="logo">FIlAdy</a>
+        <nav>
+            <ul>
+                <li><a href="tesla.html">Никола Тесла</a></li>
+                <li><a href="newton.html">Исаак Ньютон</a></li>
+                <li><a href="einstein.html">Альберт Эйнштейн</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Добро пожаловать на сайт про великих физиков</h1>
+            <p>На этом сайте вы найдете информацию о знаменитых ученых-физиках и их достижениях.</p>
+        </section>
+    </main>
+</body>
+</html>
+
+Лев Филипчик, [02.02.2025 14:37]
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Никола Тесла</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">FIlAdy</a>
+        <nav>
+            <ul>
+                <li><a href="tesla.html">Никола Тесла</a></li>
+                <li><a href="newton.html">Исаак Ньютон</a></li>
+                <li><a href="einstein.html">Альберт Эйнштейн</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Никола Тесла</h1>
+            <p>Никола Тесла был великим изобретателем и инженером, известным своими достижениями в области электричества и магнетизма. Он сделал значительный вклад в развитие современных технологий.</p>
+            <p>Ссылка на видео: <a href="https://example.com/tesla-video">Смотреть видео</a></p>
+        </section>
+    </main>
+</body>
+</html>
+
+Лев Филипчик, [02.02.2025 14:37]
+!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Исаак Ньютон</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">FIlAdy</a>
+        <nav>
+            <ul>
+                <li><a href="tesla.html">Никола Тесла</a></li>
+                <li><a href="newton.html">Исаак Ньютон</a></li>
+                <li><a href="einstein.html">Альберт Эйнштейн</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Исаак Ньютон</h1>
+            <p>Исаак Ньютон был выдающимся физиком и математиком, который сделал важные открытия в области механики, оптики и математики. Он известен своими законами движения и гравитации.</p>
+            <p>Ссылка на видео: <a href="https://example.com/newton-video">Смотреть видео</a></p>
+        </section>
+    </main>
+</body>
+</html>
+
+Лев Филипчик, [02.02.2025 14:38]
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Альберт Эйнштейн</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">FIlAdy</a>
+        <nav>
+            <ul>
+                <li><a href="tesla.html">Никола Тесла</a></li>
+                <li><a href="newton.html">Исаак Ньютон</a></li>
+                <li><a href="einstein.html">Альберт Эйнштейн</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Альберт Эйнштейн</h1>
+            <p>Альберт Эйнштейн был гениальным физиком, который разработал теорию относительности и внёс большой вклад в развитие квантовой теории. Он является одним из самых известных и влиятельных ученых в истории.</p>
+            <p>Ссылка на видео: <a href="https://example.com/einstein-video">Смотреть видео</a></p>
+        </section>
+    </main>
+</body>
+</html>
+
+Лев Филипчик, [02.02.2025 14:38]
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+header .logo {
+    font-size: 1.5em;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: #333;}
+a {
+  color: #007bff;
+    text-decoration: none;}
+a:hover {
+   text-decoration: underline;}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Роберт Оппенгеймер</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="https://eotttzi37.ukit.me" class="logo">FIlAdy</a>
+    </header>
+    <main>
+        <section>
+            <h1>Роберт Оппенгеймер</h1>
+            <p>Роберт Оппенгеймер был американским физиком-теоретиком, известным как "отец атомной бомбы". Он руководил Манхэттенским проектом, который привел к созданию первых ядерных оружий во время Второй мировой войны.</p>
+            <p>Ссылка на фильм 2024 года: <a href="https://example.com/oppenheimer-film">Смотреть фильм</a></p>
+        </section>
+    </main>
+</body>
+</html>
